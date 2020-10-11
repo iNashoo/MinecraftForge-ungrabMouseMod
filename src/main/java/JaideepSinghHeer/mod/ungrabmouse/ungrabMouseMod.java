@@ -50,7 +50,7 @@ public class ungrabMouseMod
 
     // Settings
     private boolean blockClicksOnUngrab = true;
-    private boolean clicktoregrab = true;
+    private boolean clicktoregrab = false;
     private boolean regrabOnGUIchange = false;
     private static Configuration config;
 
